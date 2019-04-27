@@ -1,0 +1,26 @@
+.imgSize{
+    width: 100%;
+    height: auto;
+}
+
+.topText{
+    position: absolute;
+    top: 8px;
+    left: 175px;
+    background: gray;
+    color: white;
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.bottomText{
+    position: absolute;
+    color: white;
+    bottom: 16px;
+    left: 175px;
+    text-align: center;
+    background: gray;
+    color: white;
+    font-size: 2em;
+    font-weight: 600;
+}
